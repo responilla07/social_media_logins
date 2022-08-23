@@ -54,7 +54,7 @@ await Google.logout();
 // No Available
 ```
 
-<em>This is just the simplyfied use of one the popular flutter plugin for social media accounts. 
+<em>This is just the simplyfied Flutter Plugin use for one of the popular flutter plugin for social media login. 
 
 The following plugins are:
 1. flutter_login_facebook
